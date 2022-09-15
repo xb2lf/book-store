@@ -2,7 +2,7 @@
  * @Author: {baixiao}
  * @Date: 2022-09-15 16:44:43
  * @LastEditors: {baixiao}
- * @LastEditTime: 2022-09-15 16:52:44
+ * @LastEditTime: 2022-09-15 17:02:39
  * @Description: 
 -->
 # book-store
@@ -32,3 +32,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## API DOCS
 [API文档](https://www.showdoc.com.cn/1207745568269674/6094279351627422)
+
+## Registered Account
+- email:`xiaoli@xiaoli123.com`
+- password:123456
